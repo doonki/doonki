@@ -47,16 +47,16 @@
 
 ![cat.jpg](./img/cat.jpg)
 
-![4.jpg](.img/4.jpg)
+![4.jpg](./img/4.jpg)
 
 강동의 JYP 사옥이에요.
 
 강동구청 앞에 있는 분수대에 앉아있다가 문득 예뻐보여서 찍었어요.
 
-![1.jpg](.img/1.jpg)
+![1.jpg](./img/1.jpg)
 
-![5.jpg](.img/5.jpg)
+![5.jpg](./img/5.jpg)
 
-![6.jpg](.img/6.jpg)
+![6.jpg](./img/6.jpg)
 
-![3.png](.img/3.png)
+![3.png](./img/3.png)
